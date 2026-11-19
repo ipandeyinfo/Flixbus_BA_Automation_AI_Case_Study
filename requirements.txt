@@ -1,0 +1,17 @@
+# PDF text and per-page content extraction.
+pymupdf>=1.24
+
+# CPU-based sentence embeddings for current-batch semantic similarity checks.
+sentence-transformers>=3.0
+
+# Numeric arrays and cosine-similarity calculations for embeddings.
+numpy>=1.26
+
+# Colorized console logging and the end-of-run summary table.
+rich>=13.0
+
+# Excel MIS workbook generation and workbook test inspection.
+openpyxl>=3.1
+
+# Development/test dependency for the automated test suite.
+pytest>=8.0
